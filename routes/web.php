@@ -227,5 +227,7 @@ Route::get('/home', function () {
             ],
         ],
     ];
-    return view('home', $database);
+    return view('home', [
+        'database' => $database
+    ]);
 });

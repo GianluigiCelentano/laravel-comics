@@ -1,0 +1,6 @@
+body .jumbotron {
+  background-image: url(/images/jumbotron.jpg);
+  height: 100px;
+  width: 100px;
+}
+
