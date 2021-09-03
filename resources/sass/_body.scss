@@ -1,7 +1,7 @@
 body {
     .jumbotron {
-        background-image: url(images/jumbotron.jpg);
-        height: 500px;
-        width: 500px;
+        background-image: url("/images/jumbotron.jpg");
+        background-size: cover;
+        height: 400px;
     }
 }
